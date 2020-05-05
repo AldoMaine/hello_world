@@ -1,8 +1,8 @@
 # hello_world
 Tutorial
 
-What and awespome tutorail.
+What an awesome tutorial.
 GitHub is freaking cool.
-yay.
+Yay.
 
 More crap added to this dumb readme file.....
